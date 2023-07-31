@@ -3,7 +3,7 @@
 ## Talk with your group and write a few sentences about each question
 ### Try to think in terms of what SQL tables might be involved, and what kinds of SQL transactions might be necessary
 
-1 . When you tweet a tweet(or X and X?), your tweet is available to THE WHOLE INTERNET
+1 . When you tweet a tweet (or X an X?), your tweet is available to THE WHOLE INTERNET
 FOREVER. Why doesn't your tweet disappear after you post it? How does it stay on
 Twitter and stay associated to ​_your_​ account?
 
